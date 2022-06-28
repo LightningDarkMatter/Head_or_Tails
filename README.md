@@ -1,4 +1,4 @@
-# Rondomisation and Python lists
+# Randomisation and Python lists
 
 ## Heads or Tails
     Date: 2022-06-28
